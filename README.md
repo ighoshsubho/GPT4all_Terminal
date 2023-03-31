@@ -5,7 +5,7 @@
 
 | Colab Page | Type | Device
 | --- | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/gpt4all-colab/blob/main/gpt4all_colab_terminal.ipynb) | Terminal App | CPU
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ighoshsubho/GPT4all_Terminal/blob/main/GPT4all_terminal.ipynb) | Terminal App | CPU
       
 ## 🚦 WIP 🚦
 
